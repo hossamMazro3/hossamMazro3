@@ -24,8 +24,4 @@ while continuously advancing in the field.
 - 🌐   HTML5 | CSS3 | JavaScript/ES6+ | Typescript | SASS | Angular | React 
 - 🖥   Bootstrap | TailwindCSS
 <br/>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamMazro3&theme=buefy&layout=compact" />
-</a>
 
-<br/>
