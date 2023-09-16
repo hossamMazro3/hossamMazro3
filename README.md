@@ -18,10 +18,10 @@ while continuously advancing in the field.
 - 👀 &nbsp; I am not limited to a specific technology stack and am open to learning and working with various technologies to meet the needs of the projects and the organization.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-- 💻   Node.Js | Express | NestJS | Socket.IO | Docker | Pm2 | Nginx 
-- 🛢   SQL | Mysql | Postgresql | Sequelize | MongoDB/Mongoose | Redis 
-- 🔧   Unit/Integration Testing (Jest/Supertest) | OOP | Integration Patterns | Design Patterns | Documentation (JsDoc/Swagger/Postman)
-- 🌐   HTML5 | CSS3 | JavaScript/ES6+ | Typescript | SASS | Angular | React 
+- 💻   Node.Js | Express | NestJS | Socket.IO | Docker | Pm2 | Nginx  <br/>
+- 🛢   SQL | Mysql | Postgresql | Sequelize | MongoDB/Mongoose | Redis  <br/>
+- 🔧   Unit/Integration Testing (Jest/Supertest) | OOP | Integration Patterns | Design Patterns | Documentation (JsDoc/Swagger/Postman) <br/>
+- 🌐   HTML5 | CSS3 | JavaScript/ES6+ | Typescript | SASS | Angular | React  <br/>
 - 🖥   Bootstrap | TailwindCSS
-<br/>
+
 
